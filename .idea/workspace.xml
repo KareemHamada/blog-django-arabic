@@ -34,6 +34,9 @@
     </task>
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1628614726601">
       <screen x="0" y="0" width="1536" height="824" />
